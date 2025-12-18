@@ -8,6 +8,7 @@ Sistem ini mengimplementasikan digital signature berbasis ECDSA untuk verifikasi
 Implementasi ini diharapkan dapat menjadi referensi penerapan kriptografi modern pada layanan API berbasis Python, khususnya dalam membangun sistem komunikasi digital yang aman dan terpercaya.
 
 Kelompok 6:
+
 Nadine Putri Aulia		  24031554094
 
 Putri Sofiyatus Salwa		24031554112
