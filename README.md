@@ -9,5 +9,7 @@ Implementasi ini diharapkan dapat menjadi referensi penerapan kriptografi modern
 
 Kelompok 6:
 Nadine Putri Aulia		  24031554094
+
 Putri Sofiyatus Salwa		24031554112
+
 Adisti Eka Nabila		    24031554119
